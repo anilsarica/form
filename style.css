@@ -1,0 +1,42 @@
+.div1{
+    width: 500px;
+    height: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(42, 39, 39);
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+form{
+    text-align: center;
+}
+
+select{
+    width: 250px;
+    height: 40px;
+}
+
+input{  
+    height: 40px;
+    width: 250px;
+}
+
+textarea{
+    width: 250px;
+    height: 40px;
+}
+
+input:focus{
+    box-shadow: 2px 2px 2px 2px white;
+    
+}
+
+span{
+    text-align:left;
+    color: goldenrod;
+}
